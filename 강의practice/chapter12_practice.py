@@ -1,3 +1,7 @@
+"""
+Chapter 12 연습문제
+"""
+
 class Car:
     def __init__(self, color='red', power=2000):
         self.color = color

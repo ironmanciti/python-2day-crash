@@ -1,4 +1,6 @@
 """
+Chapter 18 연습문제
+
 tuple element 로 구성된 list 에서 tuple 의 첫번째 element 가  'a' 인 tuple 이
 alist 의 몇번째  element 인지 구하라. 단, for loop 과 비교문을 사용하지 않고 list comprehension 을 사용
 """
